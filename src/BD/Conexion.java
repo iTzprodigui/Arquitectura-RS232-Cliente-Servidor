@@ -15,7 +15,7 @@ public class Conexion {
     // Declaramos los datos de conexion a la bd
     private static final String driver = "com.mysql.cj.jdbc.Driver";
     private static final String host = "localhost";
-    private static final String port = "3306";
+    private static final String port = "3307";
     private static final String db = "arquitectura";
     private static final String user = "root";
     private static final String pass = "";
